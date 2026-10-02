@@ -1,5 +1,4 @@
 # arduino-flashy-lights
-This is a program that uses an arduino to make light effects for a computer.
-Code: .C++, .TS, .JSON, .JS
-Again, it's an Arduino, so no SD card needed due to it's BIM(Built-In-Memory).
-   Happy Illuminating!
+<br>This is a program that uses an arduino to make light effects for a computer.
+<br>Since it's an Arduino, no SD card is needed due to it's BIM(Built-In-Memory).
+<br>Happy Illuminating!
